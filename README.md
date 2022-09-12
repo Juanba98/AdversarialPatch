@@ -18,7 +18,7 @@ $$\hat{p} = arg \max_{p} \mathbb{E}_{x \sim X,t\sim T,l\sim L} [logPr(\hat{y}|A(
 
 
 
-##Referential implementation:
+## Referential implementation:
 - https://github.com/cleverhans-lab/cleverhans/blob/master/cleverhans_v3.1.0/examples/adversarial_patch/AdversarialPatch.ipynb
 - https://github.com/jhayes14/adversarial-patch
 - https://github.com/A-LinCui/Adversarial_Patch_Attack
