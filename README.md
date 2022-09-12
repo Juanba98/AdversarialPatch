@@ -1,4 +1,4 @@
-# Adversarial Patch attack (https://arxiv.org/abs/1712.09665).
+# Adversarial Patch attack (https://arxiv.org/abs/1712.09665)
 
 We replace a part of a image with a patch. This patch must be masked to allow it to take any shape (in this aproach just a circle), then train this patch over a data set of images, applying a random translation, scaling and rotation on it for every image, and optimizing using gradient descent.
 
